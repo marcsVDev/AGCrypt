@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\bin\Debug\net8.0\Crypt.exe
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\bin\Debug\net8.0\Crypt.deps.json
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\bin\Debug\net8.0\Crypt.runtimeconfig.json
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\bin\Debug\net8.0\Crypt.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\bin\Debug\net8.0\Crypt.pdb
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.AssemblyInfo.cs
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\refint\Crypt.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.pdb
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\Crypt.genruntimeconfig.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\obj\Debug\net8.0\ref\Crypt.dll

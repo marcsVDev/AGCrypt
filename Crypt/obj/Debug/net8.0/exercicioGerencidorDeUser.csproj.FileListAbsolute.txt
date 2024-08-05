@@ -1,0 +1,14 @@
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\bin\Debug\net8.0\exercicioGerencidorDeUser.exe
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\bin\Debug\net8.0\exercicioGerencidorDeUser.deps.json
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\bin\Debug\net8.0\exercicioGerencidorDeUser.runtimeconfig.json
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\bin\Debug\net8.0\exercicioGerencidorDeUser.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\bin\Debug\net8.0\exercicioGerencidorDeUser.pdb
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.AssemblyInfoInputs.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.AssemblyInfo.cs
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\refint\exercicioGerencidorDeUser.dll
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.pdb
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\exercicioGerencidorDeUser.genruntimeconfig.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\exercicioGerencidorDeUser\obj\Debug\net8.0\ref\exercicioGerencidorDeUser.dll
