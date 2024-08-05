@@ -11,4 +11,4 @@ QWERT, ex: primeiro numero = a segundo numero = b...
 
 -key: multiplica o array cryptedIndexGB, fazendo com que alem do "alfabeto" cryptedIndexGB você precise de também uma chave para ter acesso ao texto encriptado
 
-Copyright (c) 2024 agente100p, MIT License
+Copyright (c) 2024 agente100p, CC0 1.0 Universal
