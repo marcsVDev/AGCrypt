@@ -1,4 +1,4 @@
-# AGCrypt v1.0
+# AGCrypt v1.01
 
 ### Bem vindo ao meu script, intruções da criptografia AGCrypt:
 
