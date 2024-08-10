@@ -40,7 +40,9 @@ class DesCrypt
 
         foreach (string s in splited)
         {
-            if (int.TryParse(s, out int sI))
+            if (s != "")
+            {
+                if (int.TryParse(s, out int sI))
             {
                 sI /= key;
                 int index = Array.IndexOf(CI, sI); // Encontrar o índice no array CI
@@ -49,6 +51,11 @@ class DesCrypt
                 {
                     ret.Add(alphabet[index].ToString());
                 }
+            }
+            }
+            else
+            {
+                ret.Add(" ");
             }
         }
     }

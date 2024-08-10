@@ -2,7 +2,14 @@
 
 class Program
 {
-    private static int[] cryptedIndexGB = { 98, 30, 69, 17, 13, 21, 56, 36, 78, 50, 37, 92, 26, 8, 94, 7, 88, 93, 22, 43, 14, 63, 74, 91, 18, 51 };
+    private static int[] cryptedIndexGB = {31,42,59,26,53,58,98,94,23,84,62,64,33,83,27,95,02,88,41,97,16,93,99,37,51};
+
+    static void Main(string[] args)
+    {
+        double a = Math.PI;
+        Console.WriteLine(a);
+        DesCrypt(Console.ReadLine()+"",821691);
+    }
     private static void EnCrypt(string text, int key)
     {
         Crypt crypt = new Crypt(text, key, cryptedIndexGB); // Instacia a classe Crypt, e o objeto recebe os parametros key e text

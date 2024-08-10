@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\Crypt.csproj": {}
+    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj": {}
   },
   "projects": {
-    "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\Crypt.csproj": {
+    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\Crypt.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj",
         "projectName": "Crypt",
-        "projectPath": "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\Crypt.csproj",
+        "projectPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\marco\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

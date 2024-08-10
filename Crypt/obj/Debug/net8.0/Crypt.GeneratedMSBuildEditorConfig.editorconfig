@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Crypt
-build_property.ProjectDir = c:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\Crypt\
+build_property.ProjectDir = C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\Crypt\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

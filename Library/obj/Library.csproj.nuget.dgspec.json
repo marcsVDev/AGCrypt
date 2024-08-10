@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\exercicioGerencidorDeUser\\exercicioGerencidorDeUser.csproj": {}
+    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\exercicioGerencidorDeUser\\exercicioGerencidorDeUser.csproj": {
+    "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\exercicioGerencidorDeUser\\exercicioGerencidorDeUser.csproj",
-        "projectName": "exercicioGerencidorDeUser",
-        "projectPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\exercicioGerencidorDeUser\\exercicioGerencidorDeUser.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj",
+        "projectName": "Library",
+        "projectPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\exercicioGerencidorDeUser\\obj\\",
+        "outputPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Users\\marco\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.206/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

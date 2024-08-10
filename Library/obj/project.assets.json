@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj",
-      "projectName": "Crypt",
-      "projectPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj",
+      "projectUniqueName": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj",
+      "projectName": "Library",
+      "projectPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\obj\\",
+      "outputPath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Users\\marco\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",

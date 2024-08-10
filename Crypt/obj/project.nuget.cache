@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gKVXcfMHZG01znvBZ42JitMPKK9VUvw+Vs+Lk98U3Tw+59VrMLV+UxdSZ5OlobU3w+5619T+gprfwy0yNI+wCQ==",
+  "dgSpecHash": "bmhu2x/j1F+04QRhB8+Sc/UbtNJrSs5w+xNnDay9DHd5Ak8r4Kf7oyEfQwNOcq3xtnpunTramsHKIoUl4fL4og==",
   "success": true,
-  "projectFilePath": "c:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\Crypt\\Crypt.csproj",
+  "projectFilePath": "C:\\Users\\marco\\Desktop\\Global\\GitEstudos\\Estudo\\C#\\Scripts\\AGCrypt\\Crypt\\Crypt.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
