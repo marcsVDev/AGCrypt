@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crypt")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a33dfb6e40411843dfc9dd4528d8c8df2b6f269")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c21041c1d54536abe115384f837e3ce4237b528")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crypt")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crypt")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

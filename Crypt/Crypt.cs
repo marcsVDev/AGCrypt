@@ -4,7 +4,7 @@ class Crypt // Classe Crypt
 
 {
     public string concatText = ""; // Texto encriptado concatenado, de array para string, separado por "-"
-    private char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' }; // Variavel Array, armazena o alfabeto QWERT    
+    private  char[] alphabet = new char[]{ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' ', '!', '.','*','-','_','+','?','@','$',',','/','1','2','3','4','5','6','7','8','9','0' }; // Variavel Array, armazena o alfabeto QWERT, numeros e caracteres
     public Crypt(string text, int key, int[] CI) // Construtor, realiza a conversão, parametros: text, key, e array do CI
     {
         int[] cryptedIndex = CI; // Variavel Array, armazena o alfabeto encriptado, letra por letra
@@ -32,7 +32,7 @@ class Crypt // Classe Crypt
 class DesCrypt
 {
     public List<string> ret = new List<string>();
-    private char[] alphabet = { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' }; // Variavel Array, armazena o alfabeto QWERT
+    private  char[] alphabet = new char[]{ 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', ' ', '!', '.','*','-','_','+','?','@','$',',','/','1','2','3','4','5','6','7','8','9','0' }; // Variavel Array, armazena o alfabeto QWERT, numeros e caracteres
     public DesCrypt(string text, int key, int[] CI)
     {
         text = text.Trim('-'); // Remover os delimitadores iniciais e finais
