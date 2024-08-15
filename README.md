@@ -12,3 +12,14 @@ QWERT, numeros e caracteres especias, ex: primeiro numero = a segundo numero = b
 -key: multiplica o array cryptedIndexGB, fazendo com que alem do "alfabeto" cryptedIndexGB você precise de também uma chave para ter acesso ao texto encriptado
 
 Copyright (c) 2024 marcsVDev, CC0 1.0 Universal
+
+# AGLib v1.0 
+
+## Test
+
+-Você pode baixar a biblioteca pelo arquivo .dll
+
+-A Biblioteca usa do AGCrypt, onde você pode implementar em seus programas .dotnet C#
+
+
+
