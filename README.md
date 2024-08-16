@@ -17,7 +17,8 @@ Copyright (c) 2024 marcsVDev, CC0 1.0 Universal
 
 ## Test
 
--Você pode baixar a biblioteca pelo arquivo .dll
+-Você pode baixar a biblioteca pelo arquivo .dll:
+> <a id="raw-url" href="https://github.com/marcsVDev/AGCrypt/blob/main/AGLib.dll">Download</a> da Biblioteca AGLib.dll
 
 -A Biblioteca usa do AGCrypt, onde você pode implementar em seus programas .dotnet C#
 
