@@ -77,12 +77,19 @@ class ProgramTest
 
 ```
 # Como Baixar?
+
+## 1:
+
 - Faça o Download com:
   > dotnet add package AGLib-v1.0 --version 1.0.0
+
+## 2:
 
 - Abra o Visual Studio e abra o projeto que deseja implementar o AGLib
 
 - Selecione o Projeto > Gerenciar pacotes Nuget, e pesquise por AGLib
+
+# Créditos:
 
 Créditos sempre são bem vindo! Você pode adicionar [a logo do AGCrypt](https://github.com/marcsVDev/AGCrypt/blob/main/agcrypt.png) em seu projeto.
 
