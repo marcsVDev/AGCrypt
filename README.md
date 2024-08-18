@@ -29,8 +29,7 @@ O AGCrypt tem três Metodos Principais, sendo eles:
 ## Informações Gerais:
 
 A AGLib é a biblioteca do AGCrypt, que você pode implementar em seu projeto (C#):
--  Você pode baixar a biblioteca pelo arquivo .dll:
-> [Download](https://github.com/marcsVDev/AGCrypt/blob/main/AGLib.dll) da Biblioteca AGLib
+-  Você pode baixar a biblioteca pelo Nuget:
 - Como baixar [AQUI](https://github.com/marcsVDev/AGCrypt?tab=readme-ov-file#como-baixar)
 - Você deve instaciar a classe MainCall para ter acesso aos metodos do AGCrypt
 
@@ -78,11 +77,12 @@ class ProgramTest
 
 ```
 # Como Baixar?
-- Faça o Download em [AGLib](https://github.com/marcsVDev/AGCrypt?tab=readme-ov-file#aglib)
+- Faça o Download com:
+  > dotnet add package AGLib-v1.0 --version 1.0.0
 
 - Abra o Visual Studio e abra o projeto que deseja implementar o AGLib
 
-- Na parte superior do projeto: Projeto > Adicionar Referência > Procurar, selecione o arquivo .dll e aperte OK
+- Selecione o Projeto > Gerenciar pacotes Nuget, e pesquise por AGLib
 
 Créditos sempre são bem vindo! Você pode adicionar [a logo do AGCrypt](https://github.com/marcsVDev/AGCrypt/blob/main/agcrypt.png) em seu projeto.
 
