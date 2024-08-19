@@ -1,3 +1,6 @@
+#####  __Logo será fixado o erro do int, cujo multiplicação de int 32bits ultrpassa os 32bits. Junto com outras atualizações! Use no maximo numeros apartir de 5 digitos ou 9 digitos com Ci de 2 digitos!__
+
+
 # AGCrypt
 
 ## Informação Gerais:
