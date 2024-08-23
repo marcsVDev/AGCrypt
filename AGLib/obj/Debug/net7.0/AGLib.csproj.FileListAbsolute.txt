@@ -5,8 +5,8 @@ C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Deb
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.AssemblyInfoInputs.cache
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.AssemblyInfo.cs
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.csproj.CoreCompileInputs.cache
+C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.sourcelink.json
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.dll
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\refint\AGLib.dll
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.pdb
 C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\ref\AGLib.dll
-C:\Users\marco\Desktop\Global\GitEstudos\Estudo\C#\Scripts\AGCrypt\AGLib\obj\Debug\net7.0\AGLib.sourcelink.json

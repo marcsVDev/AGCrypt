@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AGLib")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8d43042c62885db5b8910c857d59a69c7a5a949")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10fcc361a6b3c3b8909560ba7b26944eaee526db")]
 [assembly: System.Reflection.AssemblyProductAttribute("AGLib")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AGLib")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

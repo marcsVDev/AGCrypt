@@ -1,12 +1,13 @@
 class Crypt // Classe Crypt
 {
     private string concatText = "";
-    public Crypt(string text, int key, int[] CI, char[] alphabet) // Construtor, realiza a conversão, parametros: text, key, e array do CI
+    
+    public Crypt(string text, int key, long[] CI, char[] alphabet) // Construtor, realiza a conversão, parametros: text, key, e array do CI
     {
-        int[] cryptedIndex = CI; // Variavel Array, armazena o alfabeto encriptado, letra por letra
+        long[] cryptedIndex = CI; // Variavel Array, armazena o alfabeto encriptado, letra por letra
         string[] convertedText = new string[text.Length]; // Variavel Array, responsavel por guardar cada letra
         for (int j = 0; j < text.Length; j++) // Loop, Tamanho do texto Input, Parametro da Classe/Construtor
-        {
+        {            
             char[] c; // Variavel Array, guarda cada letra do text (Input)
             text = text.ToLower(); // Deixa text em minusculo
             c = text.ToCharArray(); // Separa text em index, da variavel Array: char[]
@@ -14,7 +15,7 @@ class Crypt // Classe Crypt
             {
                 if (c[j] == alphabet[i]) // Condicional
                 {
-                    int bin = cryptedIndex[i] * key; // Cria o codigo de acordo com cryptedIndex X key
+                    long bin = cryptedIndex[i] * key; // Cria o codigo de acordo com cryptedIndex X key
                     convertedText[j] = bin.ToString(); // Transforma os resultados (cada letra, ja convertida) em uma string Array
                 }
             }
@@ -32,7 +33,7 @@ class Crypt // Classe Crypt
 class DesCrypt // Classe DesCrypt
 {
     private List<string> ret = new List<string>();
-    public DesCrypt(string text, int key, int[] CI, char[] alphabet)
+    public DesCrypt(string text, int key, long[] CI, char[] alphabet)
     {
         text = text.Trim('-'); // Remover os delimitadores iniciais e finais
         string[] splited = text.Split('-'); // Dividir a string usando o caractere '-'
