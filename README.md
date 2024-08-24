@@ -93,7 +93,7 @@ Console.WriteLine(descrypted);
 ## 1:
 
 - Faça o Download com:
-  > dotnet add package AGLib-v1.0 --version 1.0.0
+  > dotnet add package AGLib --version 1.1.0
 
 ## 2:
 
@@ -103,6 +103,6 @@ Console.WriteLine(descrypted);
 
 # Créditos:
 
-Créditos sempre são bem vindo! Você pode adicionar [a logo do AGCrypt](https://github.com/marcsVDev/AGCrypt/blob/main/agcrypt.png) em seu projeto.
+Créditos sempre são bem vindos! Você pode adicionar [a logo do AGCrypt](https://github.com/marcsVDev/AGCrypt/blob/main/agcrypt.png) em seu projeto.
 
 *Copyright (c) 2024 marcsVDev, CC0 1.0 Universal*
