@@ -93,13 +93,15 @@ Console.WriteLine(descrypted);
 ## 1:
 
 - Faça o Download com:
-  > dotnet add package AGLib --version 1.1.0
+```
+dotnet add package AGLibrary --version 1.0.0
+```
 
 ## 2:
 
 - Abra o Visual Studio e abra o projeto que deseja implementar o AGLib
 
-- Selecione o Projeto > Gerenciar pacotes Nuget, e pesquise por AGLib
+- Selecione o Projeto > Gerenciar pacotes Nuget, e pesquise por AGLibrary
 
 # Créditos:
 
